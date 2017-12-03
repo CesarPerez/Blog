@@ -1,0 +1,12 @@
+.panel-menu{
+    margin: 3em;
+}
+
+.panel-entry{
+    background: white;
+    margin: 2em;
+}
+
+.header-entry , .body-entry{
+    padding: 2em;
+}
